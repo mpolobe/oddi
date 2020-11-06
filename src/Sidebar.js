@@ -101,10 +101,10 @@ function Sidebar() {
               <p className="sidebar__greeting mobile__tag">
                 {" "}
                 <a
-                  href="https://alii13.github.io/portfolio/"
+                  href="https://zedapps.github.io/website/"
                   style={{ color: "white" }}
                 >
-                  | MADE BY <span style={{ color: "white" }}>ALI</span> |
+                  | MADE BY <span style={{ color: "white" }}>ZEDDAPPS</span> |
                 </a>
               </p>
               <div className="sidebar__headerRight">
