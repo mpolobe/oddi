@@ -30,11 +30,11 @@ function Login() {
     <div className="login">
       <div className="login__container">
         <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/225px-WhatsApp.svg.png"
-          alt="whatsapp"
+          src="https://oddi.litebase.xyz/themes/default/assets/images/logo.png"
+          alt="Oddi"
         />
         <div className="login__text">
-          <h1>Sign in to Whatsapp</h1>
+          <h1>Sign in to Oddi</h1>
         </div>
         <Button onClick={signIn}>Sign In with Google</Button>
       </div>
